@@ -5,7 +5,7 @@
 ![VPC](https://img.shields.io/badge/VPC-Multi%20AZ%20Subnets-blue)
 ![Security](https://img.shields.io/badge/Security-Groups%20%26%20NACLs-critical)
 ![Terraform](https://img.shields.io/badge/optional-Terraform-green)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 
 ---
 
