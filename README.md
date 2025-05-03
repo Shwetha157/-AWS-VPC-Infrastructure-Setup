@@ -37,4 +37,10 @@ The goal is to build a production-ready network layer that supports high availab
 - Network ACLs (NACLs)
 - Security Groups
 
+- 
+---
+
+Would you like me to help generate the actual CLI script files or a sample diagram to get started?
+
+
 
