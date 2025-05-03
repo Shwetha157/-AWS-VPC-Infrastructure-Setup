@@ -18,7 +18,7 @@ The goal is to build a production-ready network layer that supports high availab
 
 ## 🚀 Key Features
 
-- 🌐 VPC with public and private subnets across **2+ AZs**
+- 🌐 VPC with public and private subnets across multi-AZs
 - 📶 Internet Gateway for public subnet internet access
 - 🔁 NAT Gateway for private subnet outbound traffic
 - 🔒 NACLs and Security Groups for fine-grained traffic control
@@ -37,10 +37,6 @@ The goal is to build a production-ready network layer that supports high availab
 - Network ACLs (NACLs)
 - Security Groups
 
-- 
----
-
-Would you like me to help generate the actual CLI script files or a sample diagram to get started?
 
 
 
