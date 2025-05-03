@@ -1,7 +1,3 @@
-# -AWS-VPC-Infrastructure-Setup
-This project demonstrates the design and deployment of a secure, scalable AWS Virtual Private Cloud (VPC) environment. It includes the creation of public and private subnets across multiple availability zones, route table configuration, VPC peering, and strict security controls using NACLs and security groups.
-The goal is to build a production-ready network layer that supports high availability, controlled internet access, and inter-VPC communication.
-
 # 🛡️ AWS VPC Infrastructure Setup
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
