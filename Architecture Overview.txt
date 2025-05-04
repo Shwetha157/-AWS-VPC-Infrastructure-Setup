@@ -17,19 +17,14 @@ Applied for layered security and traffic control at subnet and instance levels.
 EC2 Instances
 Deployed in both public and private subnets for different use cases (e.g., web servers, application servers).
 
+
+
 🔧 Technologies & Skills Used
-AWS VPC
-
-Amazon EC2
-
-Route Tables
-
-Internet Gateway (IGW)
-
-NAT Gateway
-
-VPC Peering
-
-NACLs
-
-Security Groups
+    AWS VPC
+    Amazon EC2
+    Route Tables
+    Internet Gateway (IGW)
+    NAT Gateway
+    VPC Peering
+    NACLs
+    Security Groups
