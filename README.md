@@ -37,6 +37,13 @@ The goal is to build a production-ready network layer that supports high availab
 - Network ACLs (NACLs)
 - Security Groups
 
+- ### 🖼️ Architecture Diagram
+
+![AWS VPC Infrastructure Setup](./A_diagram_titled_"AWS_VPC_Infrastructure_Setup"_il.png)
+
+![AWS VPC Infrastructure Setup](./assets/A_diagram_titled_"AWS_VPC_Infrastructure_Setup"_il.png)
+
+
 
 
 
